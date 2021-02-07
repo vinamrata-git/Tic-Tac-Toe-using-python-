@@ -12,11 +12,11 @@ The objective of the game is to win against the computer by your analysis.
 5. Play until the position is filled or until one player win the game.
 6. print the winner.
 
-#challenges
+#challenges:
 Try to recognise your chance to win the game, be carefull while choosing the place on the board.
 
-#Process
-play mindfully and pay attention on computer move, you can win the game.
+#Process:
+play mindfully and pay attention on computer's move, you can win the game.
 
 
 
