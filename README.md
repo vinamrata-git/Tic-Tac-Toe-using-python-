@@ -2,10 +2,10 @@
 First Week project at Ironhack in a group of two classmates, this Game is played against the computer and used AI in order to make it difficult to win.
 
 # Rules:
-The of the project is to be the first player to get 3 row or column or diagonal in a 3-by-3 grid. who made it first will win the game either before filling all the position of the grid. if neither will made it, it means the game is a tie and no one win the game.
+The target of the game is to be the first player to get 3 row or column or diagonal in a 3-by-3 grid. who made it first will win the game either before filling all the position of the grid. if neither will made it, it means the game is a tie and no one win the game.
 
 # Onjective 
-The objective of the game is to win against the computer by your analysis.
+The objective of the game is to win against the computer.
 
 #Description of the game 
 1. Print Tic tac toe board
