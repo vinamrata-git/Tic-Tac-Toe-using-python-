@@ -7,7 +7,7 @@ The target of the game is to be the first player to get 3 row or column or diago
 # Objective 
 The objective of the game is to win against the computer.
 
-#Description of the game 
+# Description of the game 
 1. Print Tic tac toe board
 2. Select yes if you want to play this game
 3. Input your choice of place on the board
@@ -15,10 +15,10 @@ The objective of the game is to win against the computer.
 5. Play until the position is filled or until one player win the game.
 6. print the winner.
 
-#challenges:
+# challenges:
 Try to recognise your chance to win the game, be carefull while choosing the place on the board.
 
-#Process:
+# Process:
 play mindfully and pay attention on computer's move, you can win the game.
 
 
